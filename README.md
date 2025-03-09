@@ -4,7 +4,7 @@
 Гибкий поисковик
 
 ## Обзор проекта
-
+Ссылка на MLSD документ - https://docs.google.com/document/d/1hi3ee7mv3FcE7inVTisYxF1yt3Qi7bzQFeG4aSh-zTA/edit?tab=t.0
 
 ## Контакты
 Захаров Федя
